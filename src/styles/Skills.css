@@ -1,0 +1,41 @@
+.skills {
+    width: 100%;
+    height: 340vh;
+    background-color: white;
+}
+
+.description {
+    padding-top: 60px;
+}
+
+.skills h1 {
+    text-decoration: none;
+    margin: 20px;
+    text-align: left;
+    padding-left: 160px;
+}
+
+.skills p {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 160px;
+}
+
+.skills-first-line {
+    color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 35px;
+}
+
+.skills-second-line {
+    color: grey;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.skills-card {
+    padding-left: 160px;
+}

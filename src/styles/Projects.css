@@ -1,0 +1,42 @@
+.projects {
+    width: 100%;
+    height: 100vh;
+    background-color: #181823;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 40px;
+}
+
+.description {
+    padding-top: 40px;
+}
+
+.projects-first-line {
+    padding-top: 80px;
+    text-decoration: none;
+    margin: 20px;
+    text-align: left;
+    padding-bottom: 40px;
+}
+
+.projects-second-line p {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    padding-left: 160px;
+    text-align: left;
+}
+
+.projects-first-line {
+    color: white;
+    font-family: Verdana, sans-serif;
+    font-size: 35px;
+}
+
+.projects-second-line {
+    color: #C8FFBE;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+
